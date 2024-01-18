@@ -24,8 +24,7 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
-    
-name: Setup Java JDK
+    - name: Setup Java JDK
   uses: actions/setup-java@v4.0.0
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
