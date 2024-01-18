@@ -1,6 +1,6 @@
 # Recriação do Stingray(versão elite)
-Recriação do código do stingray(versão falsa que é modificado do elite) usando o código do elite.
-Lembrando que isso é uma RECRIAÇÃO usando o código do elite que é o código original do stingray que se originou no reddit que é fake, já que alguns arquivos são de 2022.
+Código do stingray(versão falsa que é modificado do elite) usando o código do elite.
+Lembrando que isso é uma RECRIAÇÃO usando o código do elite que é o código original do stingray que se originou no reddit que é fake, já que alguns arquivos são de 2022. Ainda mais, provavelmente pode até ser o mesmo, já que as modificações do elite original e do stingray do reddit são poucas
 # O que esse elite/stingray faz?
 O elite/stingray(versão modificada do elite) faz essas coisas(peguei do código original do elite e traduzi, aqui o link: https://github.com/harshalbenake/Android-Elite-Virus): Envie sms continuamente do dispositivo para todos os contatos telefônicos aleatoriamente até que o saldo móvel seja nulo.
 Bloquear sms messenger, etc aplicativos.
